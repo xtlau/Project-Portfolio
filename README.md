@@ -8,4 +8,8 @@ As a skilled Data Professional specializing in finance, technology, and healthca
 With over 3 years of working experience in Python, R, SQL, and machine learning, I am a fast learner and highly self-motivated, consistently delivering impactful solutions across diverse industries.
 
 
-https://github.com/xtlau/Interactive_DS_APP
+## Featured Project:
+
+1. LLM-Powered Interactive Data Science Application (Python)
+
+   https://github.com/xtlau/Interactive_DS_APP
