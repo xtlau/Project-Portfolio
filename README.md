@@ -10,7 +10,7 @@ With over 3 years of working experience in Python, R, SQL, and machine learning,
 
 ## Featured Project:
 
-1. Automated Dashboard for Portfolio Project Risk Monitoring and Companies' Daily Operational Review
+1. Automated Dashboard for Portfolio Project Risk Monitoring and Companies' Daily Operational Review (SQL)
 
    https://github.com/xtlau/PowerBI_Dashboard
 
@@ -20,6 +20,6 @@ With over 3 years of working experience in Python, R, SQL, and machine learning,
 
    I first-authored a paper and submitted it to a leading biomedical and health informatics conference.
    
-3. Academic Project: Deep Learning
+3. Academic Project: Deep Learning (Python - PyTorch)
 
    https://github.com/xtlau/Deep-Learning
