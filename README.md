@@ -23,3 +23,11 @@ With over 3 years of working experience in Python, R, SQL, and machine learning,
 3. Academic Project: Deep Learning (Python - PyTorch)
 
    https://github.com/xtlau/Deep-Learning
+   
+4. Sentiment Analysis (Python - NLP)
+
+   https://github.com/xtlau/Sentiment_Analysis-NLP
+
+5. Recommendation System
+
+   https://github.com/xtlau/Recommendation-System
