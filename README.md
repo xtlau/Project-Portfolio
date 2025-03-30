@@ -10,6 +10,10 @@ With over 3 years of working experience in Python, R, SQL, and machine learning,
 
 ## Featured Project:
 
-1. LLM-Powered Interactive Data Science Application (Python)
+1. Automated Dashboard for Portfolio Project Risk Monitoring and Companies' Daily Operational Review: https://github.com/xtlau/PowerBI_Dashboard
+
+5. LLM-Powered Interactive Data Science Application (Python)
 
    https://github.com/xtlau/Interactive_DS_APP
+
+   I first-authored a paper and submitted it to a leading biomedical and health informatics conference.
