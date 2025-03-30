@@ -10,9 +10,11 @@ With over 3 years of working experience in Python, R, SQL, and machine learning,
 
 ## Featured Project:
 
-1. Automated Dashboard for Portfolio Project Risk Monitoring and Companies' Daily Operational Review: https://github.com/xtlau/PowerBI_Dashboard
+1. Automated Dashboard for Portfolio Project Risk Monitoring and Companies' Daily Operational Review
 
-2. LLM-Powered Interactive Data Science Application (Python)
+   https://github.com/xtlau/PowerBI_Dashboard
+
+2.  LLM-Powered Interactive Data Science Application (Python)
 
    https://github.com/xtlau/Interactive_DS_APP
 
