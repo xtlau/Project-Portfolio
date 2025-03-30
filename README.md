@@ -14,7 +14,7 @@ With over 3 years of working experience in Python, R, SQL, and machine learning,
 
    https://github.com/xtlau/PowerBI_Dashboard
 
-2. LLM-Powered Interactive Data Science Application (Python)
+2. LLM-Powered Interactive Data Science Application (Python - ML & Streamlit)
 
    https://github.com/xtlau/Interactive_DS_APP
 
